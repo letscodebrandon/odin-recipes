@@ -1,0 +1,1 @@
+The Odin Recipes project involves the development of a basic webpage, culminating the information learned through the first introductory course on HTML. I am writing this on 2021-12-09 prior to the commencement of the project but it looks like it will include all of the main components of a website, such as pictures, links, headings, lists, etc.
